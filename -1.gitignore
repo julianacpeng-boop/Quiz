@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+tmp/
+output/
+google-credentials.json
+service-account.json
+token.json
+.DS_Store
