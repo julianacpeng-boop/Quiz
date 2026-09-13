@@ -48,31 +48,55 @@ CAMPANHA = {
 # ============================================================
 
 QUIZZES = {
-    "Cabelo Curto": [
+    "Semana do Cinema": [
         {
-            "pergunta": "Qual corte costuma ficar na altura do queixo?",
-            "alternativas": ["Bob", "Longo em camadas", "Rabo de cavalo"],
-            "correta": 0,
+            "pergunta": "Até que dia acontece a Semana do Cinema de setembro de 2026?",
+            "alternativas": [
+                "16 de setembro",
+                "20 de setembro",
+                "30 de setembro"
+            ],
+            "correta": 0
         },
+
         {
-            "pergunta": "Qual destes pode ajudar a dar mais textura ao cabelo?",
-            "alternativas": ["Cimento", "Pomada modeladora", "Detergente"],
-            "correta": 1,
+            "pergunta": "Quanto custa o ingresso promocional nas sessões tradicionais antes das 17h?",
+            "alternativas": [
+                "R$ 8",
+                "R$ 10",
+                "R$ 15"
+            ],
+            "correta": 1
         },
+
         {
-            "pergunta": "Qual corte geralmente deixa a nuca mais aparente?",
-            "alternativas": ["Trança longa", "Cabelo até a cintura", "Pixie cut"],
-            "correta": 2,
+            "pergunta": "Qual é o valor promocional geral para sessões tradicionais depois das 17h?",
+            "alternativas": [
+                "R$ 10",
+                "R$ 15",
+                "R$ 12"
+            ],
+            "correta": 2
         },
+
         {
-            "pergunta": "Qual acessório pode valorizar penteados em cabelo curto?",
-            "alternativas": ["Presilha", "Capacete de obra", "Chave inglesa"],
-            "correta": 0,
+            "pergunta": "Qual destes cinemas de João Pessoa participa da Semana do Cinema?",
+            "alternativas": [
+                "Centerplex Mag Shopping",
+                "Cinema Municipal de Sousa",
+                "Cine Teatro Pax"
+            ],
+            "correta": 0
         },
+
         {
-            "pergunta": "Qual profissional é o mais indicado para orientar um novo corte?",
-            "alternativas": ["Dentista", "Cabeleireiro", "Mecânico"],
-            "correta": 1,
-        },
-    ],
+            "pergunta": "Em que ano a Semana do Cinema foi criada?",
+            "alternativas": [
+                "2020",
+                "2024",
+                "2022"
+            ],
+            "correta": 2
+        }
+    ]
 }
