@@ -27,7 +27,7 @@ CAMPANHA = {
     "titulo": "SEMANA DO CINEMA",
     "hashtag": "#SemanaDoCinema",
 
-    "gancho": "VOCÊ SABE TUDO SOBRE A SEMANA DO CINEMA?",
+    "gancho": "VOCÊ SABE QUANTO CUSTA O CINEMA ESSA SEMANA?",
 
     "tarefa_chamada": "CINEMA BARATINHO EM JOÃO PESSOA!",
 
