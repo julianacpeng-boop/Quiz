@@ -19,7 +19,7 @@ PADRAO = {
     "verde": "#19C96B",
 }
 
-CAMPANHA = {
+
 CAMPANHA = {
     "modo": "tarefa",
 
