@@ -20,22 +20,22 @@ PADRAO = {
 }
 
 CAMPANHA = {
+CAMPANHA = {
     "modo": "tarefa",
 
-    "titulo": "DE VOLTA AOS ANOS 80",
-    "hashtag": "#Anos80",
+    "titulo": "BORA DE CABELO CURTO?",
+    "hashtag": "#DesafioDoCorte",
 
-    "gancho": "VOCÊ MANJA DOS ANOS 80?",
-
-    "tarefa_chamada": "EU HOJE X EU NOS ANOS 80",
+    "gancho": "VOCÊ ENTENDE DE CABELO?",
+    "tarefa_chamada": "SERÁ QUE EU FICARIA BEM DE CABELO CURTO?",
 
     "intro_tipo": "antes_depois",
 
     "intro_imagem_1": "assets/antes.png",
     "intro_imagem_2": "assets/depois.png",
 
-    "fechamento": "5/5? VOCÊ PERTENCE AOS ANOS 80!",
-    "cta": "COMENTE SUA PONTUAÇÃO",
+    "fechamento": "E AÍ: EU CORTO OU NÃO?",
+    "cta": "COMENTE SE VOCÊ CORTARIA",
 }
 
 # ============================================================
