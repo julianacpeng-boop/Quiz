@@ -20,22 +20,24 @@ PADRAO = {
 }
 
 
+
 CAMPANHA = {
     "modo": "tarefa",
 
-    "titulo": "BORA DE CABELO CURTO?",
-    "hashtag": "#DesafioDoCorte",
+    "titulo": "SEMANA DO CINEMA",
+    "hashtag": "#SemanaDoCinema",
 
-    "gancho": "VOCÊ ENTENDE DE CABELO?",
-    "tarefa_chamada": "SERÁ QUE EU FICARIA BEM DE CABELO CURTO?",
+    "gancho": "VOCÊ SABE TUDO SOBRE A SEMANA DO CINEMA?",
+
+    "tarefa_chamada": "CINEMA BARATINHO EM JOÃO PESSOA!",
 
     "intro_tipo": "antes_depois",
 
     "intro_imagem_1": "assets/antes.png",
     "intro_imagem_2": "assets/depois.png",
 
-    "fechamento": "E AÍ: EU CORTO OU NÃO?",
-    "cta": "COMENTE SE VOCÊ CORTARIA",
+    "fechamento": "5/5? ENTÃO VOCÊ JÁ PODE MARCAR O CINEMINHA!",
+    "cta": "COMENTE QUANTAS VOCÊ ACERTOU",
 }
 
 # ============================================================
