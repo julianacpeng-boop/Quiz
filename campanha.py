@@ -20,30 +20,22 @@ PADRAO = {
 }
 
 CAMPANHA = {
-    # "normal" = quiz comum
-    # "hashtag" = destaca titulo + hashtag
-    # "tarefa" = cria abertura especial antes do quiz
     "modo": "tarefa",
 
     "titulo": "DE VOLTA AOS ANOS 80",
     "hashtag": "#Anos80",
-    "gancho": "VOCE MANJA DOS ANOS 80?",
 
-    # Aparece na abertura quando modo = "tarefa"
+    "gancho": "VOCÊ MANJA DOS ANOS 80?",
+
     "tarefa_chamada": "EU HOJE X EU NOS ANOS 80",
 
-    # "texto" = abertura apenas com texto
-    # "antes_depois" = usa duas imagens, se existirem
-    # "nenhuma" = pula a abertura especial
-    "intro_tipo": "texto",
+    "intro_tipo": "antes_depois",
 
-    # Para usar antes/depois, crie uma pasta assets e informe:
-    # "assets/antes.png" e "assets/depois.png"
-    "intro_imagem_1": "",
-    "intro_imagem_2": "",
+    "intro_imagem_1": "assets/antes.png",
+    "intro_imagem_2": "assets/depois.png",
 
-    "fechamento": "5/5? VOCE PERTENCE AOS ANOS 80!",
-    "cta": "COMENTE SUA PONTUACAO",
+    "fechamento": "5/5? VOCÊ PERTENCE AOS ANOS 80!",
+    "cta": "COMENTE SUA PONTUAÇÃO",
 }
 
 # ============================================================
