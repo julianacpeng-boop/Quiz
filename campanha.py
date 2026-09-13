@@ -46,30 +46,30 @@ CAMPANHA = {
 # ============================================================
 
 QUIZZES = {
-    "Anos 80": [
+    "Cabelo Curto": [
         {
-            "pergunta": "Qual aparelho portatil ficou famoso por permitir ouvir fitas cassete?",
-            "alternativas": ["Walkman", "Discman", "MP3 player"],
+            "pergunta": "Qual corte costuma ficar na altura do queixo?",
+            "alternativas": ["Bob", "Longo em camadas", "Rabo de cavalo"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual formato era muito usado para assistir filmes em casa nos anos 80?",
-            "alternativas": ["Blu-ray", "VHS", "Streaming"],
+            "pergunta": "Qual destes pode ajudar a dar mais textura ao cabelo?",
+            "alternativas": ["Cimento", "Pomada modeladora", "Detergente"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual acessorio combinava com o visual fitness colorido dos anos 80?",
-            "alternativas": ["Cartola", "Gravata borboleta", "Polaina"],
+            "pergunta": "Qual corte geralmente deixa a nuca mais aparente?",
+            "alternativas": ["Trança longa", "Cabelo até a cintura", "Pixie cut"],
             "correta": 2,
         },
         {
-            "pergunta": "Qual videogame da Nintendo foi lancado no Japao em 1983?",
-            "alternativas": ["Famicom", "Nintendo 64", "GameCube"],
+            "pergunta": "Qual acessório pode valorizar penteados em cabelo curto?",
+            "alternativas": ["Presilha", "Capacete de obra", "Chave inglesa"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual genero musical ganhou enorme espaco na MTV durante os anos 80?",
-            "alternativas": ["Opera barroca", "Pop", "Samba-enredo apenas"],
+            "pergunta": "Qual profissional é o mais indicado para orientar um novo corte?",
+            "alternativas": ["Dentista", "Cabeleireiro", "Mecânico"],
             "correta": 1,
         },
     ],
