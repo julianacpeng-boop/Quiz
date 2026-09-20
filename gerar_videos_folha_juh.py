@@ -31,7 +31,7 @@ PAUSA_DEPOIS_PERGUNTA = 0.10
 PAUSA_DEPOIS_RESPOSTA = 0.50
 
 FUNDO = Path("assets/fundo_folha_juh_quiz.png")
-MAO = Path("assets/mao_marca_texto_suave2.png")
+MAO = Path("assets/mao_marca_texto_suave3.png")
 
 FUSO = ZoneInfo("America/Fortaleza")
 DATA_DO_DIA = datetime.now(FUSO).strftime("%Y-%m-%d")
